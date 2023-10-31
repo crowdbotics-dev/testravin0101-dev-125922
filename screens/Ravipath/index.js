@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     height: 60,
     width: 140,
     backgroundColor: "#E4E4E4",
-    borderRadius: 0,
+    borderRadius: 8,
     color: "#777777"
   },
   OVQgnknc: {
